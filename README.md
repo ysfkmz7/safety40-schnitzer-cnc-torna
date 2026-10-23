@@ -20,10 +20,12 @@ Teknik özellikler, kaynaklar ve doğrulanacak varsayımlar: **[00-makine-profil
 | 2 | Lab 2 · IEC 62443 Mini Workshop | Zone / Conduit Diagram | EP 01 · EP 05 | ✅ Tamamlandı | [Markdown](lab2-iec62443-zone-conduit.md) · [PDF](pdf/lab2-iec62443-zone-conduit.pdf) |
 | 3 | Lab 3 · Threat & Risk + Risk Matrix | Risk Register | EP 04 | ✅ Tamamlandı | [Markdown](lab3-threat-risk-matrix.md) · [PDF](pdf/lab3-threat-risk-matrix.pdf) |
 | 4 | Lab 4 · Secure Remote Access | Secure Architecture | EP 02 · EP 06 | ✅ Tamamlandı | [Markdown](lab4-secure-remote-access.md) · [PDF](pdf/lab4-secure-remote-access.pdf) |
-| 1–4 | SWOT Analizi | Stratejik değerlendirme | — | ⏳ Sırada | — |
+| 1–4 | SWOT Analizi | Stratejik değerlendirme | — | ✅ Tamamlandı | [Markdown](swot-analizi.md) · [PDF](pdf/swot-analizi.pdf) |
 | 5 | Lab 5 · SBOM / CVE / Patch | Vulnerability Decision | EP 08 – EP 11 | ⏳ Sırada | — |
 | 6 | Lab 6 · CRA Incident Simulation | Incident Workflow | EP 13 | ⏳ Sırada | — |
 | 7 | Lab 7 · AI Safety Challenge | AI Fail-Safe Decision | — | ⏳ Sırada | — |
+
+Tüm föyler tek dosyada: **[pdf/00-tum-foyler.pdf](pdf/00-tum-foyler.pdf)**
 
 ## Föylerdeki işaretler
 
