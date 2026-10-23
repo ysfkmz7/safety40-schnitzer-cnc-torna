@@ -19,7 +19,7 @@ Teknik özellikler, kaynaklar ve doğrulanacak varsayımlar: **[00-makine-profil
 | 1 | Lab 1 · Safety Architecture | Safety Function Map | EP 03 | ✅ Tamamlandı | [Markdown](lab1-safety-architecture.md) · [PDF](pdf/lab1-safety-architecture.pdf) |
 | 2 | Lab 2 · IEC 62443 Mini Workshop | Zone / Conduit Diagram | EP 01 · EP 05 | ✅ Tamamlandı | [Markdown](lab2-iec62443-zone-conduit.md) · [PDF](pdf/lab2-iec62443-zone-conduit.pdf) |
 | 3 | Lab 3 · Threat & Risk + Risk Matrix | Risk Register | EP 04 | ✅ Tamamlandı | [Markdown](lab3-threat-risk-matrix.md) · [PDF](pdf/lab3-threat-risk-matrix.pdf) |
-| 4 | Lab 4 · Secure Remote Access | Secure Architecture | EP 02 · EP 06 | ⏳ Sırada | — |
+| 4 | Lab 4 · Secure Remote Access | Secure Architecture | EP 02 · EP 06 | ✅ Tamamlandı | [Markdown](lab4-secure-remote-access.md) · [PDF](pdf/lab4-secure-remote-access.pdf) |
 | 1–4 | SWOT Analizi | Stratejik değerlendirme | — | ⏳ Sırada | — |
 | 5 | Lab 5 · SBOM / CVE / Patch | Vulnerability Decision | EP 08 – EP 11 | ⏳ Sırada | — |
 | 6 | Lab 6 · CRA Incident Simulation | Incident Workflow | EP 13 | ⏳ Sırada | — |
@@ -43,7 +43,7 @@ Teknik özellikler, kaynaklar ve doğrulanacak varsayımlar: **[00-makine-profil
 | # | Başlık | Durum | Kaynak |
 |---|---|---|---|
 | 01 | Asset Inventory | Taslak | Lab 2 — 28 kalemlik envanter |
-| 02 | Network Architecture | Yok | Lab 4 |
+| 02 | Network Architecture | Taslak | Lab 4 — hedef mimari |
 | 03 | Safety Functions | Taslak | Lab 1 — SF-1 … SF-4 |
 | 04 | Cyber Risk Assessment | Taslak | Lab 3 — R-01 … R-04 |
 | 05 | Zone & Conduit | Taslak | Lab 2 — Z0 … Z5, C1 … C6 |
