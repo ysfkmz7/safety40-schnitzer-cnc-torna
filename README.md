@@ -17,7 +17,7 @@ Teknik özellikler, kaynaklar ve doğrulanacak varsayımlar: **[00-makine-profil
 | Hafta | Laboratuvar | Çıktı | Evidence Pack | Durum | Föy |
 |---|---|---|---|---|---|
 | 1 | Lab 1 · Safety Architecture | Safety Function Map | EP 03 | ✅ Tamamlandı | [Markdown](lab1-safety-architecture.md) · [PDF](pdf/lab1-safety-architecture.pdf) |
-| 2 | Lab 2 · IEC 62443 Mini Workshop | Zone / Conduit Diagram | EP 01 · EP 05 | ⏳ Sırada | — |
+| 2 | Lab 2 · IEC 62443 Mini Workshop | Zone / Conduit Diagram | EP 01 · EP 05 | ✅ Tamamlandı | [Markdown](lab2-iec62443-zone-conduit.md) · [PDF](pdf/lab2-iec62443-zone-conduit.pdf) |
 | 3 | Lab 3 · Threat & Risk + Risk Matrix | Risk Register | EP 04 | ⏳ Sırada | — |
 | 4 | Lab 4 · Secure Remote Access | Secure Architecture | EP 02 · EP 06 | ⏳ Sırada | — |
 | 1–4 | SWOT Analizi | Stratejik değerlendirme | — | ⏳ Sırada | — |
@@ -42,14 +42,14 @@ Teknik özellikler, kaynaklar ve doğrulanacak varsayımlar: **[00-makine-profil
 
 | # | Başlık | Durum | Kaynak |
 |---|---|---|---|
-| 01 | Asset Inventory | Yok | Lab 2 |
+| 01 | Asset Inventory | Taslak | Lab 2 — 28 kalemlik envanter |
 | 02 | Network Architecture | Yok | Lab 4 |
 | 03 | Safety Functions | Taslak | Lab 1 — SF-1 … SF-4 |
 | 04 | Cyber Risk Assessment | Yok | Lab 3 |
-| 05 | Zone & Conduit | Yok | Lab 2 |
-| 06 | Remote Access Procedure | Yok | Lab 2 + Lab 4 |
+| 05 | Zone & Conduit | Taslak | Lab 2 — Z0 … Z5, C1 … C6 |
+| 06 | Remote Access Procedure | Taslak | Lab 2 Görev B + Lab 4 |
 | 07 | User/Role Matrix | Yok | — |
-| 08 | Software/Firmware Inv. | Yok | Lab 2 + Lab 5 |
+| 08 | Software/Firmware Inv. | Taslak | Lab 2 — Y-1 … Y-7 (sürümler Lab 5'te) |
 | 09 | SBOM | Yok | Lab 5 |
 | 10 | Vulnerability Records | Yok | Lab 5 |
 | 11 | Patch/Update Records | Yok | Lab 5 |
