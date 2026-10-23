@@ -16,7 +16,7 @@ Teknik özellikler, kaynaklar ve doğrulanacak varsayımlar: **[00-makine-profil
 
 | Hafta | Laboratuvar | Çıktı | Evidence Pack | Durum | Föy |
 |---|---|---|---|---|---|
-| 1 | Lab 1 · Safety Architecture | Safety Function Map | EP 03 | ⏳ Sırada | — |
+| 1 | Lab 1 · Safety Architecture | Safety Function Map | EP 03 | ✅ Tamamlandı | [Markdown](lab1-safety-architecture.md) · [PDF](pdf/lab1-safety-architecture.pdf) |
 | 2 | Lab 2 · IEC 62443 Mini Workshop | Zone / Conduit Diagram | EP 01 · EP 05 | ⏳ Sırada | — |
 | 3 | Lab 3 · Threat & Risk + Risk Matrix | Risk Register | EP 04 | ⏳ Sırada | — |
 | 4 | Lab 4 · Secure Remote Access | Secure Architecture | EP 02 · EP 06 | ⏳ Sırada | — |
@@ -44,7 +44,7 @@ Teknik özellikler, kaynaklar ve doğrulanacak varsayımlar: **[00-makine-profil
 |---|---|---|---|
 | 01 | Asset Inventory | Yok | Lab 2 |
 | 02 | Network Architecture | Yok | Lab 4 |
-| 03 | Safety Functions | Yok | Lab 1 |
+| 03 | Safety Functions | Taslak | Lab 1 — SF-1 … SF-4 |
 | 04 | Cyber Risk Assessment | Yok | Lab 3 |
 | 05 | Zone & Conduit | Yok | Lab 2 |
 | 06 | Remote Access Procedure | Yok | Lab 2 + Lab 4 |
