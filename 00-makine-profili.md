@@ -48,8 +48,9 @@ Kare kesitli ahşap kütüğü iki eksende CNC ile tornalayarak mobilya ayağı,
 | VS-4 | Üretici uzaktan destek için CAM PC'ye uzak masaüstü yazılımı kurmuş. PC hem fabrika ağına (internet) hem Ethernet ile CNC'ye bağlı. | Lab 2, Lab 3, Lab 4 |
 | VS-5 | Programlar CAM PC'den USB bellek veya Ethernet ile CNC'ye aktarılıyor. | Lab 2, Lab 3 |
 | VS-6 | CNC erişim seviyesi parolaları (üretici / servis / kullanıcı) fabrika varsayılanı olarak bırakılmış olabilir. | Lab 2, Lab 3 |
+| VS-7 | CNC sistem yazılımının sürümü bilinmiyor. Kötü durum olarak V4.91'den eski kabul edildi (Siemens SSA-170881 kapsamında). | Lab 5 |
 
-> VS-3, VS-4 ve VS-6 bilinçli olarak **kötü durum** varsayımlarıdır. Lab 4'teki "MEVCUT" tablo bu duruma göre çizildi. Sahada daha iyi bir durum görülürse riskler yeniden puanlanır.
+> VS-3, VS-4, VS-6 ve VS-7 bilinçli olarak **kötü durum** varsayımlarıdır. Lab 4'teki "MEVCUT" tablo bu duruma göre çizildi. Sahada daha iyi bir durum görülürse riskler yeniden puanlanır.
 
 ## Mevzuat bağlamı
 
