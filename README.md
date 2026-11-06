@@ -23,7 +23,7 @@ Teknik özellikler, kaynaklar ve doğrulanacak varsayımlar: **[00-makine-profil
 | 1–4 | SWOT Analizi | Stratejik değerlendirme | — | ✅ Tamamlandı | [Markdown](swot-analizi.md) · [PDF](pdf/swot-analizi.pdf) |
 | 5 | Lab 5 · SBOM / CVE / Patch | Vulnerability Decision | EP 09 · EP 10 · EP 11 | ✅ Tamamlandı | [Markdown](lab5-sbom-cve-patch.md) · [PDF](pdf/lab5-sbom-cve-patch.pdf) |
 | 6 | Lab 6 · CRA Incident Simulation | Incident Workflow | EP 13 | ✅ Tamamlandı | [Markdown](lab6-cra-incident-simulation.md) · [PDF](pdf/lab6-cra-incident-simulation.pdf) |
-| 7 | Lab 7 · AI Safety Challenge | AI Fail-Safe Decision | — | ⏳ Sırada | — |
+| 7 | Lab 7 · AI Safety Challenge | AI Fail-Safe Decision | EP 03 · EP 15 | ✅ Tamamlandı | [Markdown](lab7-ai-safety-challenge.md) · [PDF](pdf/lab7-ai-safety-challenge.pdf) |
 
 Tüm föyler tek dosyada: **[pdf/00-tum-foyler.pdf](pdf/00-tum-foyler.pdf)**
 
@@ -46,7 +46,7 @@ Tüm föyler tek dosyada: **[pdf/00-tum-foyler.pdf](pdf/00-tum-foyler.pdf)**
 |---|---|---|---|
 | 01 | Asset Inventory | Taslak | Lab 2 — 28 kalemlik envanter |
 | 02 | Network Architecture | Taslak | Lab 4 — hedef mimari |
-| 03 | Safety Functions | Taslak | Lab 1 — SF-1 … SF-4 |
+| 03 | Safety Functions | Taslak | Lab 1 — SF-1 … SF-4 · Lab 7 — YZ emniyet dışında |
 | 04 | Cyber Risk Assessment | Taslak | Lab 3 — R-01 … R-04 |
 | 05 | Zone & Conduit | Taslak | Lab 2 — Z0 … Z5, C1 … C6 |
 | 06 | Remote Access Procedure | Taslak | Lab 2 Görev B + Lab 4 |
@@ -57,8 +57,8 @@ Tüm föyler tek dosyada: **[pdf/00-tum-foyler.pdf](pdf/00-tum-foyler.pdf)**
 | 11 | Patch/Update Records | Taslak | Lab 5 — V4.91 yama planı |
 | 12 | Backup & Restore | Taslak | Lab 5 — arşiv yedeği · Lab 6 — sağlam arşivden geri yükleme |
 | 13 | Incident Response | Taslak | Lab 6 — 24 sa / 72 sa / 14 gün akışı |
-| 14 | Change Management | Taslak | Lab 5 — yama süreci |
-| 15 | Verification/Test | Taslak | Lab 5 — SF testleri · Lab 6 — yeniden başlatma koşulları |
+| 14 | Change Management | Taslak | Lab 5 — yama süreci · Lab 7 — model değişikliği |
+| 15 | Verification/Test | Taslak | Lab 5 — SF testleri · Lab 6 — yeniden başlatma koşulları · Lab 7 — eşik doğrulama |
 
 Durumlar kanıt hiyerarşisini izler: **Yok → Taslak → Var → Doğrulanmış.**
 
@@ -73,6 +73,7 @@ Durumlar kanıt hiyerarşisini izler: **Yok → Taslak → Var → Doğrulanmı�
 ├── lab4-secure-remote-access.md
 ├── lab5-sbom-cve-patch.md
 ├── lab6-cra-incident-simulation.md
+├── lab7-ai-safety-challenge.md
 ├── swot-analizi.md
 └── pdf/                             ← föy tasarımında PDF'ler
 ```
