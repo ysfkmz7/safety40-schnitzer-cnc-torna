@@ -22,7 +22,7 @@ Teknik özellikler, kaynaklar ve doğrulanacak varsayımlar: **[00-makine-profil
 | 4 | Lab 4 · Secure Remote Access | Secure Architecture | EP 02 · EP 06 | ✅ Tamamlandı | [Markdown](lab4-secure-remote-access.md) · [PDF](pdf/lab4-secure-remote-access.pdf) |
 | 1–4 | SWOT Analizi | Stratejik değerlendirme | — | ✅ Tamamlandı | [Markdown](swot-analizi.md) · [PDF](pdf/swot-analizi.pdf) |
 | 5 | Lab 5 · SBOM / CVE / Patch | Vulnerability Decision | EP 09 · EP 10 · EP 11 | ✅ Tamamlandı | [Markdown](lab5-sbom-cve-patch.md) · [PDF](pdf/lab5-sbom-cve-patch.pdf) |
-| 6 | Lab 6 · CRA Incident Simulation | Incident Workflow | EP 13 | ⏳ Sırada | — |
+| 6 | Lab 6 · CRA Incident Simulation | Incident Workflow | EP 13 | ✅ Tamamlandı | [Markdown](lab6-cra-incident-simulation.md) · [PDF](pdf/lab6-cra-incident-simulation.pdf) |
 | 7 | Lab 7 · AI Safety Challenge | AI Fail-Safe Decision | — | ⏳ Sırada | — |
 
 Tüm föyler tek dosyada: **[pdf/00-tum-foyler.pdf](pdf/00-tum-foyler.pdf)**
@@ -55,10 +55,10 @@ Tüm föyler tek dosyada: **[pdf/00-tum-foyler.pdf](pdf/00-tum-foyler.pdf)**
 | 09 | SBOM | Taslak | Lab 5 — SBOM taslağı |
 | 10 | Vulnerability Records | Taslak | Lab 5 — V-01 · CVE-2018-11466 |
 | 11 | Patch/Update Records | Taslak | Lab 5 — V4.91 yama planı |
-| 12 | Backup & Restore | Yok | — |
-| 13 | Incident Response | Yok | Lab 6 |
-| 14 | Change Management | Yok | — |
-| 15 | Verification/Test | Yok | — |
+| 12 | Backup & Restore | Taslak | Lab 5 — arşiv yedeği · Lab 6 — sağlam arşivden geri yükleme |
+| 13 | Incident Response | Taslak | Lab 6 — 24 sa / 72 sa / 14 gün akışı |
+| 14 | Change Management | Taslak | Lab 5 — yama süreci |
+| 15 | Verification/Test | Taslak | Lab 5 — SF testleri · Lab 6 — yeniden başlatma koşulları |
 
 Durumlar kanıt hiyerarşisini izler: **Yok → Taslak → Var → Doğrulanmış.**
 
@@ -72,6 +72,7 @@ Durumlar kanıt hiyerarşisini izler: **Yok → Taslak → Var → Doğrulanmı�
 ├── lab3-threat-risk-matrix.md
 ├── lab4-secure-remote-access.md
 ├── lab5-sbom-cve-patch.md
+├── lab6-cra-incident-simulation.md
 ├── swot-analizi.md
 └── pdf/                             ← föy tasarımında PDF'ler
 ```
